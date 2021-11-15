@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/react_markdown_previewer/static/css/main.86a89865.chunk.css",
+    "main.js": "/github.io/react_markdown_previewer/static/js/main.7d37a6e4.chunk.js",
+    "main.js.map": "/github.io/react_markdown_previewer/static/js/main.7d37a6e4.chunk.js.map",
+    "runtime-main.js": "/github.io/react_markdown_previewer/static/js/runtime-main.b96b416c.js",
+    "runtime-main.js.map": "/github.io/react_markdown_previewer/static/js/runtime-main.b96b416c.js.map",
+    "static/js/2.cb5e4686.chunk.js": "/github.io/react_markdown_previewer/static/js/2.cb5e4686.chunk.js",
+    "static/js/2.cb5e4686.chunk.js.map": "/github.io/react_markdown_previewer/static/js/2.cb5e4686.chunk.js.map",
+    "index.html": "/github.io/react_markdown_previewer/index.html",
+    "static/css/main.86a89865.chunk.css.map": "/github.io/react_markdown_previewer/static/css/main.86a89865.chunk.css.map",
+    "static/js/2.cb5e4686.chunk.js.LICENSE.txt": "/github.io/react_markdown_previewer/static/js/2.cb5e4686.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b96b416c.js",
+    "static/js/2.cb5e4686.chunk.js",
+    "static/css/main.86a89865.chunk.css",
+    "static/js/main.7d37a6e4.chunk.js"
+  ]
+}
